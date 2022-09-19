@@ -36,10 +36,11 @@
   
 <br>
 <br>
+
   <br>
   
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trantanhau&theme=tokyonight)](https://git.io/praveenscience)
-
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=trantanhau&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=trantanhau&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trantanhau&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trantanhau&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=trantanhau&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
